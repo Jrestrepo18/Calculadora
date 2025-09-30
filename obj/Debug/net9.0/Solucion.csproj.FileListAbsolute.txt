@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\C#\Solucion\bin\Debug\net9.0\Solucion.exe
+C:\Users\USER\Documents\C#\Solucion\bin\Debug\net9.0\Solucion.deps.json
+C:\Users\USER\Documents\C#\Solucion\bin\Debug\net9.0\Solucion.runtimeconfig.json
+C:\Users\USER\Documents\C#\Solucion\bin\Debug\net9.0\Solucion.dll
+C:\Users\USER\Documents\C#\Solucion\bin\Debug\net9.0\Solucion.pdb
+C:\Users\USER\Documents\C#\Solucion\obj\Debug\net9.0\Solucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\C#\Solucion\obj\Debug\net9.0\Solucion.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\C#\Solucion\obj\Debug\net9.0\Solucion.AssemblyInfo.cs
+C:\Users\USER\Documents\C#\Solucion\obj\Debug\net9.0\Solucion.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\C#\Solucion\obj\Debug\net9.0\Solucion.dll
+C:\Users\USER\Documents\C#\Solucion\obj\Debug\net9.0\refint\Solucion.dll
+C:\Users\USER\Documents\C#\Solucion\obj\Debug\net9.0\Solucion.pdb
+C:\Users\USER\Documents\C#\Solucion\obj\Debug\net9.0\Solucion.genruntimeconfig.cache
+C:\Users\USER\Documents\C#\Solucion\obj\Debug\net9.0\ref\Solucion.dll
